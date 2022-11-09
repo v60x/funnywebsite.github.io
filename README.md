@@ -1,0 +1,2 @@
+# funnywebsite.github.io
+test
